@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LADM_U3_Ejercicio2_DosTablas</string>
+    <array name="opcionesMenuPrincipal">
+        <item>Empleado</item>
+        <item>Conyuge</item>
+        <item>Acerca De...</item>
+        <item>Salir</item>
+    </array>
+    <array name="tipoconyugue">
+        <item>Matrimonio</item>
+        <item>Union Libre</item>
+        <item>Divorcio</item>
+        <item>Viudez</item>
+    </array>
+</resources>
